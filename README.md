@@ -6,6 +6,7 @@ Here's a list of things I currently keep myself busy with:
 - ☀️ Teaching what I know about data at **[Organidata](organidata.github.io)**.
 - ✍️ Writing tech blog posts over at **[Medium](https://medium.com/@victoriapm)**.
 - :notes: Listening to [the lofi girl](https://www.youtube.com/watch?v=5qap5aO4i9A). 
+- :information_desk_person: Every once in a while, engaging in public speaking (see my **[slides](https://github.com/Victoriapm/Talks)**)
 
 
 Here's a visual summary:
