@@ -2,7 +2,7 @@
 
 Here's a list of things I currently keep myself busy with:
 
-- 👩💻 Working as an Resident Architect @ dbt Labs - using all flavours dbt, cloud data platforms like Snowflake, Databricks and GCP and BI tooling.
+- 👩💻 Leading a team of Resident Architects @ dbt Labs - using all flavours dbt, cloud data platforms like Snowflake, Databricks and GCP and BI tooling to bring governed, scalable and efficient data strategies to live.
 - ☀️ Teaching what I know about data at **[Organidata](organidata.github.io)**.
 - ✍️ (Not) Writing tech blog posts over at **[Medium](https://medium.com/@victoriapm)**.
 - :notes: Listening to [the lofi girl](https://www.youtube.com/watch?v=5qap5aO4i9A) or going to indie/rock concerts. 
@@ -10,7 +10,7 @@ Here's a list of things I currently keep myself busy with:
 - Learning languages: Spanish, English, Italian, German, SQL & Python (yes, lame jokes as well 🤦‍♀️ )
 
 
-Here's a visual summary:
+Here's a visual summary of what I used to do when I had time:
 
   ![My github stats](https://github-readme-stats.vercel.app/api?username=victoriapm&show_icons=true&theme=tokyonight)
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=victoriapm&theme=tokyonight&hide_border=true" alt="victoriapm's GitHub Stats" />
